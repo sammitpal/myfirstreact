@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myfirstreact/static/css/main.d98786d5.chunk.css",
+    "main.js": "/myfirstreact/static/js/main.e5e7ee74.chunk.js",
+    "main.js.map": "/myfirstreact/static/js/main.e5e7ee74.chunk.js.map",
+    "runtime-main.js": "/myfirstreact/static/js/runtime-main.a45b9669.js",
+    "runtime-main.js.map": "/myfirstreact/static/js/runtime-main.a45b9669.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/myfirstreact/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.55053b68.chunk.js": "/myfirstreact/static/js/2.55053b68.chunk.js",
+    "static/js/2.55053b68.chunk.js.map": "/myfirstreact/static/js/2.55053b68.chunk.js.map",
+    "index.html": "/myfirstreact/index.html",
+    "precache-manifest.63c07c4464e39d4140344dc338d19e9c.js": "/myfirstreact/precache-manifest.63c07c4464e39d4140344dc338d19e9c.js",
+    "service-worker.js": "/myfirstreact/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/myfirstreact/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d98786d5.chunk.css.map": "/myfirstreact/static/css/main.d98786d5.chunk.css.map",
+    "static/js/2.55053b68.chunk.js.LICENSE.txt": "/myfirstreact/static/js/2.55053b68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a45b9669.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.55053b68.chunk.js",
+    "static/css/main.d98786d5.chunk.css",
+    "static/js/main.e5e7ee74.chunk.js"
+  ]
+}
